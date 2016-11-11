@@ -26,7 +26,7 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-2.png">
 </p> 
  </p align = "center">
-<img src="https://github.com/Patcharanan/LAB-12/blob/master/imgs/2.PNG?raw=true">
+<img src="https://github.com/Patcharanan/LAB-12/blob/master/imgs/1.1.PNG?raw=true">
 </p> 
 
 ### การ Zoom in  
