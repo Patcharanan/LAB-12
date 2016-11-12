@@ -61,6 +61,6 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
  </p align = "center">
 <img src="https://github.com/Patcharanan/LAB-12/blob/master/imgs/Single.JPG?raw=true">
 </p> 
-
+#นายพชรนันท์ จันทร์รักษ์ 57030198
 
 **[ตัวอย่างงานวาดภาพ Doraemon ของรุ่นพี่](https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/Doraemon.md)**
